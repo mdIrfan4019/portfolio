@@ -66,7 +66,7 @@ const Contact = () => {
 
             <motion.a
               variants={itemVariants}
-              href="https://wa.me/914342943924"
+              href="https://wa.me/917317404019"
 
               className="flex items-center gap-6 group"
             >

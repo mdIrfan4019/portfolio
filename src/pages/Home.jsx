@@ -66,7 +66,7 @@ import ScrollProgress from "../components/ScrollProgress";
 
 const Home = () => {
   return (
-<PageTransition>
+<PageTransition className='overflow-hidden'> 
   <ScrollProgress />
   <Navbar />
   <Hero />

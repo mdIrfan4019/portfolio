@@ -81,7 +81,7 @@ const PROJECTS = [
       "A weather forecasting app that shows real-time weather data using external APIs.",
     techStack: ["React · JavaScript · Express"],
     github: "https://github.com/mdIrfan4019/weather",
-    live: "https://yourportfolio.vercel.app",
+    live: "https://weather-rouge-chi-69.vercel.app/",
     image: "/images/Weather.png",
   },
   {
@@ -93,6 +93,16 @@ const PROJECTS = [
     github: "https://github.com/mdIrfan4019/Zerodha_Frontend_Clone",
     live: "https://yourportfolio.vercel.app",
     image: "/images/Zerodha.png",
+  },
+  {
+    _id: "4",
+    title: "Blog App",
+    description:
+      "Modern blogging platform for writing, sharing, and managing content..",
+    techStack: ["React · JavaScript ·Express "],
+    github: "https://github.com/mdIrfan4019/blog-app",
+    live: "https://blog-app-xi-seven-68.vercel.app/",
+    image: "/images/blogApp.png",
   },
 ];
 

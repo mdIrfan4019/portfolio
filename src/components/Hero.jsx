@@ -32,7 +32,7 @@ const Hero = () => {
   return (
     <section
       id="home"
-      className="min-h-screen overflow-hidden flex flex-col md:flex-row items-center justify-between px-8 md:px-24 bg-white"
+      className="min-h-screen flex flex-col md:flex-row items-center justify-between px-8 md:px-24 bg-white"
     >
       {/* LEFT CONTENT */}
       <motion.div
